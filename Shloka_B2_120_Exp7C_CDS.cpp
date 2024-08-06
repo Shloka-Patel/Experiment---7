@@ -29,3 +29,12 @@ int main() {
     }
     return 0; 
 }
+
+// Enter the size of array: 5
+// Enter elements 1: 4
+// Enter elements 2: 5
+// Enter elements 3: 6
+// Enter elements 4: 3
+// Enter elements 5: 7
+// Array entered by the user is: 45637
+//  Reverse of the entered array is: 73654
