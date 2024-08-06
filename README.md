@@ -98,7 +98,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7A.png) <br> 
 
 (B) <br> 
-![]() <br> 
+![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7B.png) <br> 
 
 (C) <br> 
 ![]() <br> 
