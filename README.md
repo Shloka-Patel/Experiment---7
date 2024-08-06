@@ -3,8 +3,12 @@
 Aim -> To study and implement C++ Arrays and Strings. <br> 
 
 Software -> Visual Studio Code <br> 
+ 
+Theory -> Array: •  An arry is a fixed-size sequential collection of the elemnts of same data type. It consists of continuous memory locations.<br> 
+                 •	The array's indexes begin at 0. Meaning that the first item saved at index 0 is [0]. <br> 
+                 •  The final element of an array with size n is kept at index (n-1).     <br> 
+          
 
-Theory -> <br> 
 
 Code: <br> 
 
