@@ -23,3 +23,9 @@ int main() {
    return 0;
 }
 
+// Enter 4 elements of array: 3
+// 4
+// 5
+// 6
+//
+// 3  4  5  6
