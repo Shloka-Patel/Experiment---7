@@ -20,3 +20,14 @@ int main() {
     }
     return 0;
 }
+
+// Array is: 19 
+// Array is: 20
+// Array is: 5
+// Array is: 6
+// Array is: 7
+// Array is: 5
+// Array is: 6
+// Array is: 9
+// Array is: 0
+// Array is: 6
