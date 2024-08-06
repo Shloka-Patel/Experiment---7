@@ -130,7 +130,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7C.png) <br> 
 
 (D) <br> 
-![]() <br> 
+![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7D.png) <br> 
 
 (E) <br> 
 ![]() <br> 
