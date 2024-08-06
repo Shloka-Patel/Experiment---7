@@ -1,6 +1,6 @@
 # Experiment---7
 
-Aim -> <br> 
+Aim -> To study and implement C++ Arrays and Strings. <br> 
 
 Software -> Visual Studio Code <br> 
 
@@ -137,3 +137,5 @@ Output: <br>
 
 (F) <br> 
 ![]() <br> 
+
+Conclusion -> <br> 
