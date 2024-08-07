@@ -114,12 +114,26 @@ int main() {
 }
 
 ```
-(E)<br>
+(E.1)<br>
 ```
 ```
+(E.2)<br> 
+```
+``` 
 (F)<br>
 ```
-
+```
+(G)<br> 
+```
+```
+(H)<br> 
+```
+```
+(I)<br> 
+```
+```
+(J)<br> 
+```
 ```
 
 Output: <br> 
@@ -136,10 +150,26 @@ Output: <br>
 (D) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7D.png) <br> 
 
-(E) <br> 
+(E.1) <br> 
+![]() <br> 
+
+(E.2) <br> 
 ![]() <br> 
 
 (F) <br> 
 ![]() <br> 
+
+(G) <br> 
+![]() <br> 
+
+(H) <br> 
+![]() <br> 
+
+(I) <br> 
+![]() <br> 
+
+(J) <br> 
+![]() <br> 
+
 
 Conclusion -> <br> 
