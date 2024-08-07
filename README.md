@@ -302,7 +302,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7G.png) <br> 
 
 (H) <br> 
-![]() <br> 
+![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7H.png) <br> 
 
 (I) <br> 
 ![]() <br> 
