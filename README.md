@@ -299,7 +299,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7F.png) <br> 
 
 (G) <br> 
-![]() <br> 
+![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7G.png) <br> 
 
 (H) <br> 
 ![]() <br> 
