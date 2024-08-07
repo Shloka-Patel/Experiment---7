@@ -296,7 +296,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7E.2.png) <br> 
 
 (F) <br> 
-![]() <br> 
+![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7F.png) <br> 
 
 (G) <br> 
 ![]() <br> 
