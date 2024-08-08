@@ -11,9 +11,8 @@ Array: <br>
                  •  The final element of an array with size n is kept at index (n-1).     <br> 
 
 Strings: <br> 
-
-          
-
+• A string is a sequence of characters that is used as an object of a class. <br>  
+• String class defines a number of functionalities that allow manifold operations on strings. <br> 
 
 Code: <br> 
 
