@@ -63,6 +63,9 @@ int main() {
 ```
 (C) <br>
 ```
+#include<iostream>
+using namespace std;
+
 int main() {
     int i,n;
     cout<<"Enter the size of array: ";
