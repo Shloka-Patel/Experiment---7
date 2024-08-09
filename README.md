@@ -315,4 +315,4 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7J.png) <br> 
 
 
-Conclusion -> <br> 
+Conclusion -> I learnt about arraysa ans strings and perfrmed several programmes based on them. <br> 
