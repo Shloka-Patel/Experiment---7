@@ -1,10 +1,12 @@
 # Experiment---7
 
-Aim -> To study and implement C++ Arrays and Strings. <br> 
+### Aim 
+To study and implement C++ Arrays and Strings. <br> 
 
-Software -> Visual Studio Code <br> 
+### Software 
+Visual Studio Code <br> 
  
-Theory -> <br> 
+### Theory <br> 
 Array: <br> 
 •  An arry is a fixed-size sequential collection of the elemnts of same data type. It consists of continuous memory locations.<br> 
                  •	The array's indexes begin at 0. Meaning that the first item saved at index 0 is [0]. <br> 
@@ -14,7 +16,7 @@ Strings: <br>
 • A string is a sequence of characters that is used as an object of a class. <br>  
 • String class defines a number of functionalities that allow manifold operations on strings. <br> 
 
-Code: <br> 
+### Code: <br> 
 
 (A) <br> 
 ```
@@ -282,7 +284,7 @@ cout<<a<<" is not palindrome";
 }
 ```
 
-Output: <br> 
+### Output: <br> 
 
 (A) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7A.png) <br> 
@@ -318,4 +320,5 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---7/blob/main/Output_7J.png) <br> 
 
 
-Conclusion -> I learnt about arraysa ans strings and perfrmed several programmes based on them. <br> 
+### Conclusion 
+I learnt about arraysa ans strings and perfrmed several programmes based on them. <br> 
