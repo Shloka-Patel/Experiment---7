@@ -181,6 +181,12 @@ int main() {
 ```
 (E.2)<br> 
 ```
+// NAME -SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 7 (E.2) 
+
+// Using simple for loop 
+
 #include<iostream>
 using namespace std;
 
