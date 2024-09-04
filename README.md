@@ -285,6 +285,10 @@ return 0;
 ```
 (I)<br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRM - 23070123120 
+// EXPERIMENT - 7(I) 
+
 #include<iostream>
 #include<string>
 using namespace std;
