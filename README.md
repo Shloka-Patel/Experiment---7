@@ -45,6 +45,10 @@ int main() {
 ```
 (B) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN -23070123120 
+// EXPERIMENT - 7(B) 
+
 #include <iostream>
 #define S 4
 using namespace std;
