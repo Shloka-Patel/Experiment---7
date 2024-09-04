@@ -207,6 +207,10 @@ int main() {
 ``` 
 (F)<br>
 ```
+// NAME -SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 7 (F) 
+
 // Finding minimum and maximum element of an array.          
 
 #include<iostream> 
