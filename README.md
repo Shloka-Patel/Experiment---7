@@ -247,6 +247,10 @@ int main() {
 ```
 (G)<br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRM - 23070123120 
+// EXPERIMENT - 7(G)
+
 #include<iostream> 
 #include<string>
 using namespace std; 
