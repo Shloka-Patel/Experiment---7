@@ -108,6 +108,12 @@ int main() {
 ```
 (D) <br> 
 ```
+// NAME -SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 7(D)
+
+// Search an element in array.
+
 #include<iostream>
 using namespace std;
 
